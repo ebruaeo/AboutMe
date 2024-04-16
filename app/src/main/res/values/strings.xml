@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Ebru Okumuş</string>
+    <string name="bio">Both sides of the author’s family were remarkable. His maternal grandfather,
+    William Shakespeare (26 Nisan 1564 (vaftiz) – 23 Nisan 1616), İngiliz şair, oyun yazarı ve oyuncu.
+        Genellikle İngilizce dilinin en büyük yazarı ve dünyanın en iyi dram oyunu yazarı olarak anılır.
+        İngiltere\'nin ulusal şairi ve "Avon'un Ozanı" olarak da bilinir.[2] Günümüze ulaşan eserleri, bazı
+        ortaklaşa yazılanlarla birlikte 38 oyun, 154 sone, iki uzun öykü şiir ve birkaç kaynağı belirsiz şiirden oluşur.
+        Oyunları bütün önemli dillere çevrildi ve diğer bütün oyun yazarlarından daha çok sergilendi.
+
+    Shakespeare, Stratford-upon-Avon\'da doğdu ve büyüdü. 18 yaşında Anne Hathaway ile evlendi ve üç çocuğu oldu:
+        Susanna ve ikizler Hamnet ile Judith. 1585 ile 1592 arası, Londra\'da bir oyuncu, yazar ve Lord Chamberlain\'s Men
+        (sonraki adı King\'s Men) adında bir tiyatro şirketinin sahibi olarak başarılı bir kariyere başladı. Ölmeden 3 yıl
+        önce 1613\'te, 49 yaşındayken Stratford\'da emekli olarak görüldü. Shakespeare\'in kişisel yaşamına üzerine bazı kayıtlar
+        günümüze ulaşmıştır. Görünüşü, cinsel yönelimi, dinî inançları ve başkaları tarafından yazılıp ona atfedilen eserler
+        olup olmadığı üzerine önemli tahminler yürütülmüştür.[4]
+
+    Shakespeare, bilinen eserlerinin çoğunu 1589 ile 1613 yılları arasında üretti.[5] İlk oyunları çoğunlukla komedi ve
+        tarihseldi, bu türlerle 16. yüzyıl sonunda kültür ve sanatın tepesine yükseldi. Daha sonra 1608\'e kadar trajedilere
+        yöneldi, İngilizcenin en iyi ürünlerinden bazıları sayılan Hamlet, Kral Lear, Othello ve Macbeth\'i bu dönemde yazdı.
+        Son aşamasında, dram olarak da bilinen trajikomedilerini yazdı ve diğer oyun yazarlarıyla iş birliği yaptı.
+
+ Oyunlarının birçoğu yasamı boyunca değişik nitelikte ve doğrulukta basında yayımlandı. 1623\'te, Shakespeare\'in iki
+        arkadaşı ve oyuncu dostu John Heminges ve Henry Condell, şimdi Shakespeare\'in olduğu bilinen iki eser dışındaki
+        tüm dramatik eserlerini içeren bir derleme baskıyı, Birinci Folyo\'yu yayımladı. Önsözü Ben Jonson\'ın bir şiiriydi,
+        şiirde ileri görüşlülükle Shakespeare için "bir döneme değil, tüm zamanlara ait" denilmişti.[6]
+
+
+    </string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
